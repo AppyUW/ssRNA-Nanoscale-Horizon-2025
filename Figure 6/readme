@@ -1,1 +1,4 @@
-
+Total PDB files: 2
+ssRNA PDB files for low (L) and high (H) salt concentrations are provided.
+ssRNA PDB file for negligible (N) salt concentration can be found in the "Figure 1" directory.
+Corresponding MD simulation results are provided in Figure 6 of the main manuscript.
