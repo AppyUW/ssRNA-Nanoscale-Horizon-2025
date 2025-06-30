@@ -1,3 +1,4 @@
-Two PDB files are provided for ssRNA and dsRNA.
+Total PDB files: 2
+1 for ssRNA and 1 for dsRNA
 These two input files are used for the Molecular Dynamics (MD) simulations.
-Corresponding results are illustrated in Figure 1.
+Corresponding results are illustrated in Figure 1 of the main manuscript.
