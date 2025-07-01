@@ -4,5 +4,12 @@ ssRNA: 123 conformations.
 All these conformations were used to generate Figure 2 of the main manuscript.
 
 Usage:
-All pdbs in the "ssRNA" directory: colored crosses in Figure 2(b)
-All pdbs in the "dsRNA" directory: shaded region in Figure 2(b)
+---------------------------------
+All pdbs in the "ssRNA" directory
+---------------------------------
+colored crosses in Figure 2(b)
+
+---------------------------------
+All pdbs in the "dsRNA" directory
+---------------------------------
+shaded region in Figure 2(b)
