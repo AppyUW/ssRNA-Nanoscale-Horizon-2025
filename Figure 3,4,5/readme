@@ -3,13 +3,50 @@ The PDB files corresponding to low conductance conformation (LCC) and high condu
 Corresponding results are presented in Figures 3, 4, and 5 of the main manuscript.
 
 Usage:
-----------------------------------------------------------------------
-"Pdis_15_LCC.pdb": Figure 3(a, top), Figure 4(a, top-left), Figure 4(a, bottom, pink), Figure 5(a, teal)
-"Pdis_15_HCC.pdb": Figure 3(a, bottom), Figure 4(a, top-right), Figure 4(a, bottom, purple), Figure 5(a, yellowish-green)
-----------------------------------------------------------------------
-"Pdis_20_LCC.pdb": Figure 3(b, top), Figure 4(b, top-left), Figure 4(b, bottom, pink), Figure 5(b, teal)
-"Pdis_20_HCC.pdb": Figure 3(b, bottom), Figure 4(b, top-right), Figure 4(b, bottom, purple), Figure 5(b, yellowish-green)
-----------------------------------------------------------------------
-"Pdis_25_LCC.pdb": Figure 3(c, top), Figure 4(c, top-left), Figure 4(c, bottom, pink), Figure 5(c, teal)
-"Pdis_25_HCC.pdb": Figure 3(c, bottom), Figure 4(c, top-right), Figure 4(c, bottom, purple), Figure 5(c, yellowish-green)
-----------------------------------------------------------------------
+------------------
+"Pdis_15_LCC.pdb"
+------------------
+Figure 3(a, top)
+Figure 4(a, top-left)
+Figure 4(a, bottom, pink)
+Figure 5(a, teal)
+
+------------------
+"Pdis_15_HCC.pdb"
+------------------
+Figure 3(a, bottom)
+Figure 4(a, top-right)
+Figure 4(a, bottom, purple)
+Figure 5(a, yellowish-green)
+
+------------------
+"Pdis_20_LCC.pdb"
+------------------
+Figure 3(b, top)
+Figure 4(b, top-left)
+Figure 4(b, bottom, pink)
+Figure 5(b, teal)
+
+------------------
+"Pdis_20_HCC.pdb"
+------------------
+Figure 3(b, bottom)
+Figure 4(b, top-right)
+Figure 4(b, bottom, purple)
+Figure 5(b, yellowish-green)
+
+------------------
+"Pdis_25_LCC.pdb"
+------------------
+Figure 3(c, top)
+Figure 4(c, top-left)
+Figure 4(c, bottom, pink)
+Figure 5(c, teal)
+
+------------------
+"Pdis_25_HCC.pdb" 
+------------------
+Figure 3(c, bottom)
+Figure 4(c, top-right)
+Figure 4(c, bottom, purple)
+Figure 5(c, yellowish-green)
